@@ -30,7 +30,7 @@ To analyze and visualize key trends from a survey of 630 data professionals, pro
 - Career difficulty perception percentages
 
 ## Dashboard :
-- Dashboard Interaction <a href="https://github.com/udbhav555/Data-Professionals-survey-Analytics/blob/main/Project%209.pbix">View Dashboard</a
+- Dashboard Interaction <a href="https://github.com/udbhav555/Data-Professionals-survey-Analytics/blob/main/Project%209.pbix">View Dashboard</a>
 
 ## Process 
 
