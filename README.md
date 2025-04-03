@@ -27,5 +27,26 @@ To analyze and visualize key trends from a survey of 630 data professionals, pro
 -Career difficulty perception percentages
 
 ## Dashboard :
-- Dashboard Interaction <a href="">View Dashboard</a
+- Dashboard Interaction <a href="https://github.com/udbhav555/Data-Professionals-survey-Analytics/blob/main/Project%209.pbix">View Dashboard</a
+
+## Process :
+
+Survey data collection from 630 data professionals
+Data cleaning and standardization of job titles and responses
+Creating calculated fields for satisfaction metrics
+Designing visualizations to highlight key patterns
+Building interactive dashboard with filtering capabilities
+Implementing color coding for intuitive data interpretation
+
+## Features :
+
+✅ -Comprehensive salary comparison across data roles
+✅ -Geographic distribution visualization via treemap
+✅ -Programming language preference analysis
+✅ -Job satisfaction gauges for work-life balance and compensation
+✅ -Career difficulty breakdown with percentage distribution
+✅ -Demographic summary with participant count and average age
+
+
+
 
