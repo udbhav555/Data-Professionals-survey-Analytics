@@ -5,6 +5,11 @@
 ## Project Objective
 To analyze and visualize key trends from a survey of 630 data professionals, providing insights into career demographics, salary differences, job satisfaction, and technical preferences in the data industry.
 
+
+## Dashboard View
+![Screenshot 2025-03-19 203425](https://github.com/user-attachments/assets/9fd493b7-6408-4e67-a951-06f2d33a8b30)
+
+
 ## Dataset used
 
 - <a href="https://github.com/udbhav555/Data-Professionals-survey-Analytics/blob/main/Power%20BI%20-%20Final%20Project.xlsx">Dataset</a>
@@ -52,9 +57,6 @@ To analyze and visualize key trends from a survey of 630 data professionals, pro
 ✅ **Career difficulty breakdown with percentage distribution**\
 ✅ **Demographic summary with participant count and average age**
 
-## Dashboard Screenshot
-
-![Screenshot 2025-03-19 203425](https://github.com/user-attachments/assets/9fd493b7-6408-4e67-a951-06f2d33a8b30)
 
 
 ## Key Metrics
